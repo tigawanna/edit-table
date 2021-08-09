@@ -1,0 +1,46 @@
+.plain-table-container{
+    height:100% ;
+     width: 100%;
+    
+ }
+ 
+ .sort-btn-container button{
+ font-size: 0.8rem;
+ border: purple 1px solid;
+ background-color: rebeccapurple;
+ 
+ }
+ .plain-table{
+     table-layout: fixed;
+     border: orchid 2px solid;
+     height:100% ;
+     width: 100%; 
+ }
+ .plain-table th{
+ background-color: purple;
+ padding: 0.9rem;
+ color: white;
+ }
+ .plain-table td{
+  padding: 0.2rem;
+ 
+ }
+ .plain-table td button{
+     padding: 0.2rem;
+     font-size: 0.6rem;
+     margin: 0.2rem;
+     border:rgb(247, 210, 210) solid 1px;
+    }
+ .plain-table input{
+     padding: 0.2rem;
+     max-width: 90%;
+     text-align: center;
+     border: rgb(250, 79, 12) 1px solid;
+  }
+ .table-edit-icons{
+     margin: 0px 1px 0px 1px;
+ }
+ .table-is-edited{
+   font-size: 12px;
+   font-style: italic;
+ }
